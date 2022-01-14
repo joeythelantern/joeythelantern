@@ -8,6 +8,8 @@ My name is Saman, but you may know me from my youtube channel as "The Nerdy Canu
 [![Youtube Channel Views](https://img.shields.io/youtube/channel/views/UCmG1UbEI0iFE1tAw2SyvvXg?label=YouTube%20Channel%20Views&style=for-the-badge)](https://youtbe.com/c/TheNerdyCanuck)
 [![Youtube Channel Subs](https://img.shields.io/youtube/channel/subscribers/UCmG1UbEI0iFE1tAw2SyvvXg?label=Channel%20Subscribers&style=for-the-badge)](https://youtbe.com/c/TheNerdyCanuck)
 
+Come find me on social media!
+[![LinkedIn](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/samanarif/)
 
 - 🔭 I’m currently working on: Amazing YouTube videos and content to help you learn!
 - 😄 Pronouns: He / Him
