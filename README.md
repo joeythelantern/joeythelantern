@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Saman, but you may know me from my youtube channel as "The Nerdy Canuck", or even joeythelantern!
+
+[![Saman's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeythelantern)](https://youtube.com/c/TheNerdyCanuck)
+
 <!--
 **joeythelantern/joeythelantern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
