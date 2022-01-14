@@ -11,6 +11,7 @@ My name is Saman, but you may know me from my youtube channel as "The Nerdy Canu
 - ⚡ Fun fact: I didn't start university until I was 25.  It's never too late.
 - 🤔 I’m looking for help with: Finding more people to help learn.
 
+[![NerdyProfilePic](https://lh3.googleusercontent.com/a-/AOh14GglnMoBPixoeH-IwaCWx7SpehtvYTPowns21fVO=s288-p-rw-no)](https://lh3.googleusercontent.com/a-/AOh14GglnMoBPixoeH-IwaCWx7SpehtvYTPowns21fVO=s288-p-rw-no)
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/joeythelantern?cardType=github&theme=github-dark&Border=24D6DD&Text=2CDD8B)](https://git.io/awesome-stats-card)
 
 <!--
