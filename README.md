@@ -26,13 +26,10 @@ Come find me on social media!<h1 align="left">Hi 👋, I'm Saman</h1>
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nerdycanuck"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nerdycanuck" /></a></p>
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joeythelantern&show_icons=true&locale=en&layout=compact" alt="joeythelantern" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joeythelantern&show_icons=true&locale=en" alt="joeythelantern" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joeythelantern&" alt="joeythelantern" /></p>
+<br />
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=joeythelantern&show_icons=true&locale=en&layout=compact" alt="joeythelantern" /></p>
+<br />
+<p><img  src="https://github-readme-stats.vercel.app/api?username=joeythelantern&show_icons=true&locale=en" alt="joeythelantern" /></p>
+<br />
+<p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=joeythelantern&" alt="joeythelantern" /></p>
