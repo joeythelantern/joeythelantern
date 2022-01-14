@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Come find me on social media!<h1 align="left">Hi 👋, I'm Saman</h1>
 <h3 align="left">You may know me as the Nerdy Canuck</h3>
 
