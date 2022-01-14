@@ -11,6 +11,7 @@ My name is Saman, but you may know me from my youtube channel as "The Nerdy Canu
 Come find me on social media!
 
 [![LinkedIn](https://img.shields.io/badge/Linked-In-blue)](https://www.linkedin.com/in/samanarif/)
+[![Youtube](https://img.shields.io/badge/You-Tube-red)](https://youtbe.com/c/TheNerdyCanuck)
 
 - 🔭 I’m currently working on: Amazing YouTube videos and content to help you learn!
 - 😄 Pronouns: He / Him
