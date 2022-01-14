@@ -2,7 +2,7 @@
 
 My name is Saman, but you may know me from my youtube channel as "The Nerdy Canuck", or even joeythelantern!
 
-[![Saman's GitHub stats](https://github-readme-stats.vercel.app/api?username=joeythelantern)](https://youtube.com/c/TheNerdyCanuck)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/joeythelantern?cardType=level-alternate&theme=github-dark&Border=24D6DD&Text=2CDD8B)](https://git.io/awesome-stats-card)
 
 <!--
 **joeythelantern/joeythelantern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
