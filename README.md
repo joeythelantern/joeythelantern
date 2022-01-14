@@ -1,21 +1,18 @@
 ### Hi there 👋
 
-
-[![NerdyProfilePic](https://lh3.googleusercontent.com/a-/AOh14GglnMoBPixoeH-IwaCWx7SpehtvYTPowns21fVO=s288-p-rw-no)](https://lh3.googleusercontent.com/a-/AOh14GglnMoBPixoeH-IwaCWx7SpehtvYTPowns21fVO=s288-p-rw-no)
-
-My name is Saman, but you may know me from my youtube channel as "The Nerdy Canuck", or even joeythelantern!
-
-[![Youtube Channel Views](https://img.shields.io/youtube/channel/views/UCmG1UbEI0iFE1tAw2SyvvXg?label=YouTube%20Channel%20Views&style=for-the-badge)](https://youtbe.com/c/TheNerdyCanuck)
-[![Youtube Channel Subs](https://img.shields.io/youtube/channel/subscribers/UCmG1UbEI0iFE1tAw2SyvvXg?label=Channel%20Subscribers&style=for-the-badge)](https://youtbe.com/c/TheNerdyCanuck)
-
 Come find me on social media!<h1 align="center">Hi 👋, I'm Saman</h1>
 <h3 align="center">You may know me as the Nerdy Canuck</h3>
+
+[![NerdyProfilePic](https://lh3.googleusercontent.com/a-/AOh14GglnMoBPixoeH-IwaCWx7SpehtvYTPowns21fVO=s288-p-rw-no)](https://lh3.googleusercontent.com/a-/AOh14GglnMoBPixoeH-IwaCWx7SpehtvYTPowns21fVO=s288-p-rw-no)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=joeythelantern&label=Profile%20views&color=0e75b6&style=flat" alt="joeythelantern" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=joeythelantern" alt="joeythelantern" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/thenerdycanuck" target="blank"><img src="https://img.shields.io/twitter/follow/thenerdycanuck?logo=twitter&style=for-the-badge" alt="thenerdycanuck" /></a> </p>
+
+[![Youtube Channel Views](https://img.shields.io/youtube/channel/views/UCmG1UbEI0iFE1tAw2SyvvXg?label=YouTube%20Channel%20Views&style=for-the-badge)](https://youtbe.com/c/TheNerdyCanuck)
+[![Youtube Channel Subs](https://img.shields.io/youtube/channel/subscribers/UCmG1UbEI0iFE1tAw2SyvvXg?label=Channel%20Subscribers&style=for-the-badge)](https://youtbe.com/c/TheNerdyCanuck)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
