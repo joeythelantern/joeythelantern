@@ -9,8 +9,8 @@ Come find me on social media!<h1 align="left">Hi 👋, I'm Saman</h1>
 
 <p align="left"> <a href="https://twitter.com/thenerdycanuck" target="blank"><img src="https://img.shields.io/twitter/follow/thenerdycanuck?logo=twitter&style=for-the-badge" alt="thenerdycanuck" /></a> </p>
 
-[![Youtube Channel Views](https://img.shields.io/youtube/channel/views/UCmG1UbEI0iFE1tAw2SyvvXg?label=YouTube%20Channel%20Views&style=for-the-badge)](https://youtbe.com/c/TheNerdyCanuck)
-[![Youtube Channel Subs](https://img.shields.io/youtube/channel/subscribers/UCmG1UbEI0iFE1tAw2SyvvXg?label=Channel%20Subscribers&style=for-the-badge)](https://youtbe.com/c/TheNerdyCanuck)
+[![Youtube Channel Views](https://img.shields.io/youtube/channel/views/UCmG1UbEI0iFE1tAw2SyvvXg?label=YouTube%20Channel%20Views&style=for-the-badge)](https://youtube.com/c/TheNerdyCanuck)
+[![Youtube Channel Subs](https://img.shields.io/youtube/channel/subscribers/UCmG1UbEI0iFE1tAw2SyvvXg?label=Channel%20Subscribers&style=for-the-badge)](https://youtube.com/c/TheNerdyCanuck)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
